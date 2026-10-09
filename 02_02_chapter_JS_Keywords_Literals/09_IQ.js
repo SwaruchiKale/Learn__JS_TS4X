@@ -1,5 +1,5 @@
 // ============================================
-// JavaScript Identifier Rules - IQ
+// JavaScript Identifier Rules - IQ (Interview Question)
 // ============================================
 
 let validName = "starts with letter";
