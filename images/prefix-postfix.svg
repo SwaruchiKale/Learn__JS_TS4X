@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="310" viewBox="0 0 900 310" role="img" aria-labelledby="title description">
+  <title id="title">Prefix and postfix increment</title>
+  <desc id="description">Prefix increments before reading the value; postfix reads the value before incrementing.</desc>
+  <rect width="900" height="310" rx="20" fill="#f5f7ff"/>
+  <text x="450" y="46" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#172554">Increment: when is the value read?</text>
+  <rect x="35" y="75" width="400" height="200" rx="16" fill="#fff" stroke="#93c5fd" stroke-width="2"/>
+  <rect x="465" y="75" width="400" height="200" rx="16" fill="#fff" stroke="#c4b5fd" stroke-width="2"/>
+  <text x="235" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1d4ed8">Prefix: ++x</text>
+  <text x="665" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#6d28d9">Postfix: x++</text>
+  <text x="75" y="160" font-family="Arial, sans-serif" font-size="18" fill="#334155">Start: x = 5</text>
+  <text x="75" y="195" font-family="Arial, sans-serif" font-size="18" fill="#334155">Read expression value: 6</text>
+  <text x="75" y="230" font-family="Arial, sans-serif" font-size="18" fill="#334155">After expression: x = 6</text>
+  <text x="505" y="160" font-family="Arial, sans-serif" font-size="18" fill="#334155">Start: x = 5</text>
+  <text x="505" y="195" font-family="Arial, sans-serif" font-size="18" fill="#334155">Read expression value: 5</text>
+  <text x="505" y="230" font-family="Arial, sans-serif" font-size="18" fill="#334155">After expression: x = 6</text>
+</svg>
