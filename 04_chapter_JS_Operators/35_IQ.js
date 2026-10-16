@@ -7,3 +7,5 @@ let category =
 
 
 console.log(`Status ${statusCode}: ${category}`);
+
+

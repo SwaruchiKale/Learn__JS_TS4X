@@ -6,3 +6,7 @@ console.log(`Response: ${responseTime}ms — ${slaStatus}`);
 
 // Template Literal
 console.log(`What is the SLA time ? - ${sla}`);
+
+
+
+
